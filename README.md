@@ -1,5 +1,5 @@
 # AzureLab05
-Implement Intersite Connectivity Student lab manual
+Manual sobre como Implementar conectividad entre sitios a través de Azure y PowerShell 
 
 Arquitectura del diagrama:
 
