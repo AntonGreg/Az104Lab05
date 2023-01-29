@@ -1,4 +1,4 @@
-# Implementar la conectividad entre sitios
+# Az104Lab05: Implementar la conectividad entre sitios
 
 Manual sobre como Implementar conectividad entre sitios a través de Azure y PowerShell 
 
