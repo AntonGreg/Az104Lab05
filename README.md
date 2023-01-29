@@ -1,7 +1,8 @@
-# AzureLab05
+# Implementar la conectividad entre sitios
+
 Manual sobre como Implementar conectividad entre sitios a través de Azure y PowerShell 
 
-Arquitectura del diagrama:
+## Diagrama:
 
 ![](img/img1.png)
 
